@@ -21,7 +21,9 @@ R-http://www.r-project.org/
 
 RStudio (desktop edition)-http://www.rstudio.com/products/rstudio/download/
 
-#### R packages (please run the R script to install required R packages)-http://www.rdatamining.com/books/rdm/code/Install-R-packages.R
+#### R packages (please run the R script to install required R packages)
+
+http://www.rdatamining.com/books/rdm/code/Install-R-packages.R
 
 1. Package which is only available in source form, and may need compilation of C/C++/Fortran: ‘RODBC’
    Do you want to attempt to install these from sources? y/n:" 
