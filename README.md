@@ -4,11 +4,17 @@ Kinito R Data Mining Description
 ## Prerequisits
 
 Regression-https://en.wikipedia.org/wiki/Regression_analysis
+
 Classification-https://en.wikipedia.org/wiki/Statistical_classification
+
 Data clustering-https://en.wikipedia.org/wiki/Cluster_analysis
+
 Association rules-https://en.wikipedia.org/wiki/Association_rule_learning
+
 Text mining-https://en.wikipedia.org/wiki/Text_mining
+
 Time series analysis-https://en.wikipedia.org/wiki/Time_series
+
 Social network analysis-https://en.wikipedia.org/wiki/Social_network_analysis
 
 ## Requirements
@@ -85,14 +91,23 @@ Graph dataset-http://www.rdatamining.com/data/graph.rdata
 ### Slides
 
 R Programming [PDF]-http://www.rdatamining.com/training/course/RDM-slides-r-programming.pdf
+
 Data Exploration and Visualisation with R [PDF]-http://www.rdatamining.com/training/course/RDM-slides-data-exploration-visualisation.pdf
+
 Regression and Classification with R  [PDF]-http://www.rdatamining.com/training/course/RDM-slides-regression-classification.pdf
+
 Data Clustering with R [PDF]-http://www.rdatamining.com/training/course/RDM-slides-clustering-with-r.pdf
+
 Association Rule Mining with R [PDF]-http://www.rdatamining.com/training/course/RDM-slides-association-rule-mining-with-r.pdf
+
 Text Mining with R [PDF]-http://www.rdatamining.com/training/course/RDM-slides-text-mining-with-r.pdf
+
 Time Series Analysis with R [PDF]-http://www.rdatamining.com/training/course/RDM-slides-time-series-analysis.pdf
+
 Network Analysis and Graph Mining with R [PDF]-http://www.rdatamining.com/training/course/RDM-slides-social-network-analysis-with-r.pdf
+
 Hadoop, Spark and R [PDF]-http://www.rdatamining.com/training/course/RDM-slides-hadoop-spark.pdf
+
 R Reference Card for Data Mining [PDF]-http://www.rdatamining.com/docs/RDataMining-reference-card.pdf
 
 ### Scripts
