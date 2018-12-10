@@ -18,7 +18,9 @@ You will need to bring your own laptop. Please install the required software and
 ### Software and Packages
 
 R-http://www.r-project.org/
+
 RStudio (desktop edition)-http://www.rstudio.com/products/rstudio/download/
+
 R packages (please run the R script to install required R packages)-http://www.rdatamining.com/books/rdm/code/Install-R-packages.R
 
 ### RStudio project archive
@@ -29,7 +31,9 @@ http://www.rdatamining.com/training/course/RDM-course.zip
 ### Data
 
 Titanic dataset-http://www.rdatamining.com/data/titanic.raw.rdata
+
 Twitter dataset-http://www.rdatamining.com/data/RDataMining-Tweets-20160212.rds
+
 Graph dataset-http://www.rdatamining.com/data/graph.rdata
 
 ### Slides
